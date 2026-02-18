@@ -1,0 +1,10 @@
+{"id": 2, "score": 2, "density": "PRUNED", "reason": "Very short generic debug question with no context about what value is 0 or why", "tok_s": 56.15376505264702, "tokens": 196, "ok": true}
+{"id": 4, "score": 2, "density": "PRUNED", "reason": "Just an image attachment with no text content or meaningful message", "tok_s": 53.02456197843061, "tokens": 233, "ok": true}
+{"id": 14, "score": 9, "density": "CORE", "reason": "Deep expertise request wanting best recommendation regardless of complexity", "tok_s": 55.584393967604925, "tokens": 183, "ok": true}
+{"id": 33, "score": 5, "density": "ACTIVE", "reason": "Generic request without specifics - asks for help but doesn't specify what task to do", "tok_s": 53.05744680705088, "tokens": 232, "ok": true}
+{"id": 44, "score": 5, "density": "ACTIVE", "reason": "Generic request to search context for lit RPG topic", "tok_s": 47.795145888393996, "tokens": 209, "ok": true}
+{"id": 52, "score": 5, "density": "ACTIVE", "reason": "Generic inquiry about Supabase database without personal context or specific needs", "tok_s": 49.11906190450812, "tokens": 200, "ok": true}
+{"id": 59, "score": 8, "density": "ENRICHED", "reason": "Detailed genre analysis with structured breakdown showing clear analytical expertise and specific reasoning for each genre classification", "tok_s": 53.352980334337154, "tokens": 304, "ok": true}
+{"id": 90, "score": 8, "density": "ENRICHED", "reason": "Detailed technical specifications with multiple service configurations, specific directory structures, connection strings, and clear implementation requirements for infrastructure services", "tok_s": 46.99238250854263, "tokens": 179, "ok": true}
+{"id": 141, "score": 5, "density": "ACTIVE", "reason": "Detailed technical integration task with clear specifications, existing infrastructure, and specific code changes needed", "tok_s": 68.73125560332642, "tokens": 318, "ok": true}
+{"id": 187, "score": 5, "density": "ACTIVE", "reason": "System status message, operational data without personal opinions", "tok_s": 71.01655703682941, "tokens": 300, "ok": true}

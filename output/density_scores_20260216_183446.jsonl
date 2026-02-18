@@ -1,0 +1,5 @@
+{"id": 2, "score": 2, "density": "PRUNED", "reason": "Very short message with no context - just asks 'why is it still 0' with no background, expertise, or values expressed", "tok_s": 49.46881842510744, "tokens": 183, "ok": true}
+{"id": 4, "score": 2, "density": "PRUNED", "reason": "Simple message relay with minimal content - just forwarding a Discord message with an image attachment, no personal opinion or unique content expressed", "tok_s": 51.78042528513159, "tokens": 290, "ok": true}
+{"id": 14, "score": 8, "density": "ENRICHED", "reason": "User explicitly wants best recommendation and implementation, seeking unique expertise and specific guidance rather than generic help", "tok_s": 55.42717796516026, "tokens": 236, "ok": true}
+{"id": 33, "score": 2, "density": "PRUNED", "reason": "Very short, vague request with no specifics about what needs to be done or what task is requested.", "tok_s": 54.51432263849322, "tokens": 259, "ok": true}
+{"id": 44, "score": 5, "density": "ACTIVE", "reason": "User request to search stored context/database for lit RPG conversations - useful but generic task", "tok_s": 91.72823666474952, "tokens": 311, "ok": true}

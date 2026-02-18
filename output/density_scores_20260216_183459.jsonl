@@ -1,0 +1,3 @@
+{"id": 52, "score": 5, "density": "ACTIVE", "reason": "Generic technical inquiry about Supabase database capacity, useful but no personal context or deep opinion", "tok_s": 46.303706277123126, "tokens": 173, "ok": true}
+{"id": 59, "score": 5, "density": "ACTIVE", "reason": "Generic genre classification without personal opinions or unique perspective", "tok_s": 62.50886091345403, "tokens": 332, "ok": true}
+{"id": 90, "score": 9, "density": "CORE", "reason": "Complex multi-part task requiring architectural decisions, file creation, API integration, and verification - deep values and unique execution", "tok_s": 49.97473108667589, "tokens": 213, "ok": true}

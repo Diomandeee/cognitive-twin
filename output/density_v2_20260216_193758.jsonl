@@ -1,0 +1,20 @@
+{"id": 2, "score": 2, "density": "PRUNED", "reason": "Generic question 'Why is it still 0' with no context or personality signals", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 4, "score": 2, "density": "PRUNED", "reason": "System instruction, not user content", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 14, "score": 5, "density": "ACTIVE", "reason": "Shows preference for quality over simplicity, but request is generic", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 33, "score": 5, "density": "ACTIVE", "reason": "Shows entitlement/expectation style but minimal personality", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 44, "score": 5, "density": "ACTIVE", "reason": "Interest in lit RPG topic, but request is generic", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 52, "score": 3, "density": "PRUNED", "reason": "Very brief, generic question", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 59, "score": 8, "density": "ENRICHED", "reason": "Shows analytical expertise in storytelling/genres, clear communication style", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 90, "score": 10, "density": "CORE", "reason": "Deep technical expertise, specific infrastructure knowledge, detailed requirements reveal strong expertise and decision-making", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 141, "score": 10, "density": "CORE", "reason": "Deep technical expertise in AI/synthesis, specific infrastructure details, clear integration requirements show unique expertise", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 187, "score": 2, "density": "PRUNED", "reason": "System output JSON, not user content", "tok_s": 42.966258597123684, "tokens": 860, "ok": true}
+{"id": 189, "score": 1, "density": "PRUNED", "reason": "System config message - no personality revealed", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 191, "score": 1, "density": "PRUNED", "reason": "System config message - no personality revealed", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 193, "score": 4, "density": "ACTIVE", "reason": "Work instruction 'Wire up this index step' - useful but generic", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 201, "score": 4, "density": "ACTIVE", "reason": "Media attachment with work request - useful context", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 204, "score": 4, "density": "ACTIVE", "reason": "Media attachment with work request - useful context", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 206, "score": 3, "density": "PRUNED", "reason": "Simple command 'Implement the action needed' - minimal content", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 217, "score": 5, "density": "ACTIVE", "reason": "Detailed task but generic instruction - useful context", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 241, "score": 7, "density": "ENRICHED", "reason": "Shows expertise/preference: asking about Expo vs iOS deployment reveals mobile dev decision-making", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 243, "score": 5, "density": "ACTIVE", "reason": "Work request about integration - useful but generic", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}
+{"id": 249, "score": 2, "density": "PRUNED", "reason": "Simple 'Yes' response - minimal content", "tok_s": 43.8943592366045, "tokens": 1155, "ok": true}

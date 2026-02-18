@@ -1,0 +1,22 @@
+{"id": 2, "score": 2, "density": "PRUNED", "reason": "Generic debug question with no context or personal density", "tok_s": 53.45822470581574, "tokens": 220, "ok": true}
+{"id": 4, "score": 2, "density": "PRUNED", "reason": "Simple media forwarding request with no personal opinion or unique decision", "tok_s": 53.70752956764172, "tokens": 212, "ok": true}
+{"id": 14, "score": 9, "density": "CORE", "reason": "User seeking best recommendation and implementation, not just information", "tok_s": 53.39869681131635, "tokens": 205, "ok": true}
+{"id": 33, "score": 5, "density": "ACTIVE", "reason": "Generic setup request about Apple developer account configuration", "tok_s": 55.548505361334, "tokens": 123, "ok": true}
+{"id": 44, "score": 5, "density": "ACTIVE", "reason": "Utility request to search/filter conversation data, functional but generic", "tok_s": 53.49143194254327, "tokens": 278, "ok": true}
+{"id": 52, "score": 5, "density": "ACTIVE", "reason": "Short generic technical question about Supabase database capacity", "tok_s": 54.505259609440195, "tokens": 184, "ok": true}
+{"id": 59, "score": 5, "density": "ACTIVE", "reason": "Systematic genre classification - useful analysis but lacks distinctive personal opinions or unique perspective", "tok_s": 51.38287644310292, "tokens": 277, "ok": true}
+{"id": 90, "score": 8, "density": "ENRICHED", "reason": "Detailed technical task with specific service configs, Supabase credentials, and clear preferences for service management approach", "tok_s": 55.328350707972355, "tokens": 156, "ok": true}
+{"id": 141, "score": 9, "density": "CORE", "reason": "Detailed technical integration task with specific infrastructure, file paths, and clear objectives", "tok_s": 46.65530696340824, "tokens": 180, "ok": true}
+{"id": 187, "score": 2, "density": "PRUNED", "reason": "System status message with no personal opinions or preferences - just operational data", "tok_s": 48.087707531118724, "tokens": 346, "ok": true}
+{"id": 189, "score": 5, "density": "ACTIVE", "reason": "System status message with config operation details, provides useful operational data but no personal opinions or decisions", "tok_s": 51.78756203998605, "tokens": 308, "ok": true}
+{"id": 191, "score": 2, "density": "PRUNED", "reason": "System status message with no conversational depth - just operational log data", "tok_s": 52.25248890600366, "tokens": 257, "ok": true}
+{"id": 193, "score": 5, "density": "ACTIVE", "reason": "Technical debug message with system failure info and a straightforward task request; useful operational communication but generic", "tok_s": 52.448458527390045, "tokens": 169, "ok": true}
+{"id": 201, "score": 2, "density": "PRUNED", "reason": "Simple notification with audio file, no substantive content", "tok_s": 48.21839339464738, "tokens": 306, "ok": true}
+{"id": 204, "score": 2, "density": "PRUNED", "reason": "Empty message - just a media file attachment with no question or content", "tok_s": 46.818434522053934, "tokens": 287, "ok": true}
+{"id": 206, "score": 2, "density": "PRUNED", "reason": "Short generic instruction with no context, personality or details about what action needed", "tok_s": 50.55953047149388, "tokens": 337, "ok": true}
+{"id": 217, "score": 8, "density": "ENRICHED", "reason": "Clear bulk registration task with specific API endpoint, 52 named projects, and detailed registration format provided", "tok_s": 56.01704134716675, "tokens": 221, "ok": true}
+{"id": 241, "score": 5, "density": "ACTIVE", "reason": "Practical technical question seeking advice on framework choice; useful but generic inquiry without personal context or strong opinions", "tok_s": 51.232261114212875, "tokens": 225, "ok": true}
+{"id": 243, "score": 8, "density": "ENRICHED", "reason": "Specific technical integration request with detailed explanation needs", "tok_s": 52.064088152300315, "tokens": 247, "ok": true}
+{"id": 249, "score": 2, "density": "PRUNED", "reason": "Single word affirmation without context or substance", "tok_s": 48.29500973618575, "tokens": 219, "ok": true}
+{"id": 260, "score": 2, "density": "PRUNED", "reason": "Short fragment, incomplete message, appears to be noise/partial message", "tok_s": 49.589437602373586, "tokens": 260, "ok": true}
+{"id": 264, "score": 5, "density": "ACTIVE", "reason": "Technical task request with specific instructions but no personal opinions or deep values expressed", "tok_s": 49.61489341981948, "tokens": 235, "ok": true}

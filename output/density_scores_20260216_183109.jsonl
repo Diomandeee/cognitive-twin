@@ -1,0 +1,2 @@
+{"id": 2, "score": 5, "density": "ACTIVE", "reason": "Simple debug question without context about what value is zero", "tok_s": 46.44304656607989, "tokens": 171, "ok": true}
+{"id": 4, "score": 1, "density": "PRUNED", "reason": "media notification only, no question or request", "tok_s": 48.106311279998906, "tokens": 341, "ok": true}
